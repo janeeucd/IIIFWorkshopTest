@@ -5,11 +5,11 @@
   "label" : "JA test manifest",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[JA test manifest with two images]",
+    "@value" : "JA test manifest with two images",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Copyright Janée Allsman, Copyright Marsh's Library]",
+  "attribution" : "Copyright Janée Allsman, Copyright Marsh's Library",
   "sequences" : [ {
     "@id" : "http://537fd4df-dab9-4cec-80d5-131fd6f05b8c",
     "@type" : "sc:Sequence",

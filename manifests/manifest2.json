@@ -1,0 +1,87 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "JA test manifest",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[JA test manifest with two images]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Copyright Janée Allsman, Copyright Marsh's Library]",
+  "sequences" : [ {
+    "@id" : "http://537fd4df-dab9-4cec-80d5-131fd6f05b8c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://93ca85db-3bb6-44a9-9d43-d802d6a7b08b",
+      "@type" : "sc:Canvas",
+      "label" : "Acadia National Park",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9dc1f4ac-7078-451e-aa9b-7133627fdf23",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/pxl-20220909-141432869/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/pxl-20220909-141432869",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://93ca85db-3bb6-44a9-9d43-d802d6a7b08b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://23500e79-9848-4930-88f6-7aaf60db2bcb",
+      "@type" : "sc:Canvas",
+      "label" : "Watermark ",
+      "height" : 3072,
+      "width" : 4080,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://764b8240-654a-4506-a697-d58eb305d394",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/watermark-z-2.2.16-4.10/full/full/90/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/watermark-z-2.2.16-4.10",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3072,
+          "width" : 4080
+        },
+        "on" : "http://23500e79-9848-4930-88f6-7aaf60db2bcb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "https://iiif.archivelab.org/iiif/pxl-20220909-141432869/full/full/0/default.jpg" ]
+  } ]
+}

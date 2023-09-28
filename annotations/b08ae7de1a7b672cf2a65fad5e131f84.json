@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "D H",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>D H</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107893460766204382741",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-28T14:45:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695912319228",
+    "dcterms:modified" : "2023-09-28T14:45:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=946,942,452,1024"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M946.4123,942.37613h225.98373v0h225.98373v512.07414v512.07414h-225.98373h-225.98373v-512.07414z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_993e5d0a-8563-4fc2-838c-b142be307376\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://23500e79-9848-4930-88f6-7aaf60db2bcb"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Watermark",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Watermark</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/107893460766204382741",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-09-28T14:44:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1695912297436",
+    "dcterms:modified" : "2023-09-28T14:44:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=52,542,3917,1680"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M52.03255,542.40506h1958.43219v0h1958.43219v839.82821v839.82821h-1958.43219h-1958.43219v-839.82821z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c31702f5-6f9d-4469-990a-052db04dd167\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://23500e79-9848-4930-88f6-7aaf60db2bcb"
+    } ]
+  } ],
+  "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/annotations/b08ae7de1a7b672cf2a65fad5e131f84.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

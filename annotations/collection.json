@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://janeeucd.github.io/IIIFWorkshopTest/annotations/b71ebc0005e641d08e912fb43a10d5be.json" ],
+  "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/annotations/collection.json",
+  "label" : "All annotations loaded in janeeucd/IIIFWorkshopTest project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

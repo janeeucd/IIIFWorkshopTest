@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/ebmanifest.json",
   "@type" : "sc:Manifest",
-  "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. ",
+  "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne.",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",

@@ -1,0 +1,787 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sermon de M[onsieu]r. Claude; avec une Préparation à la Céne;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sermon de M[onsieu]r. Claude; avec une Préparation à la Céne;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/9",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=2017,613,391,48"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pratique des Vertus Chrétiennes;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pratique des Vertus Chrétiennes;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/5",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=115,371,1315,190"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pour envoyer à Cayenne.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pour envoyer à Cayenne.</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/0",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=578,66,1266,156"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 11 // 00 / 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 11 // 00 / 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/20",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=2043,1200,377,109"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Code Marin;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Code Marin;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/16",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=239,1068,423,77"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Priéres pour tous les jours de la semaine; Sermon",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Priéres pour tous les jours de la semaine; Sermon</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/11",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=118,656,1827,150"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 2 // 00 / 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 2 // 00 / 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/6",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1951,363,463,132"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 1 // 00 // 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 1 // 00 // 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/8",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1945,437,492,144"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Foy fructifiante;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Foy fructifiante;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/22",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=653,1312,656,153"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 2 // 05 / 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 2 // 05 / 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/17",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1942,645,489,256"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sermon pour la Défense de la Réformation;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sermon pour la Défense de la Réformation;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/12",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=118,748,1764,156"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 2 // 00 / 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 2 // 00 / 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/10",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=118,630,1880,79"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 1 // 15 // 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 1 // 15 // 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/2",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1960,141,454,181"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La voix de Dieu;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La voix de Dieu;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/7",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=112,495,714,158"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Trois Quatre Sermons de M[onsieu]r Sarrau*; et Priere pour le",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Trois Quatre Sermons de M[onsieu]r Sarrau*; et Priere pour le</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/14",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=129,886,1690,144"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Examen de Soy-même, par M[onsieu]r. Claude,",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Examen de Soy-même, par M[onsieu]r. Claude,</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/18",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=60,1053,1790,184"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "* Savoir, Transfiguration;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>* Savoir, Transfiguration;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/21",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=270,1191,993,182"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Préservatif [contre le changement de religion], par le même,",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Préservatif [contre le changement de religion], par le même,</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/3",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=121,270,1168,185"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Traite de la Dévotion, par M[onsieu]r. Jurieu",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Traite de la Dévotion, par M[onsieu]r. Jurieu</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/1",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=106,132,1609,199"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jeûne; et Avis pour se préparer à la Communion;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jeûne; et Avis pour se préparer à la Communion;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/15",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=173,1001,1654,127"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 2 // 00 / 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 2 // 00 / 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/19",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1997,1010,423,153"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "L . . 2 // 00 // 0",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L . . 2 // 00 // 0</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462024/4",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=1960,265,448,123"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://web.marshlibrary.ie/catalogue/Record/20913\" target=\"_blank\" rel=\"noopener\">Derniers Discours de M[onsieu]r. Morus;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://web.marshlibrary.ie/catalogue/Record/20913\" target=\"_blank\" rel=\"noopener\">Derniers Discours de M[onsieu]r. Morus</a>;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/13",
+    "dcterms:modified" : "2023-09-29T18:08:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=107,832,1326,138"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M107,832h663v0h663v69v69h-663h-663v-69z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b55be7ed-6bb1-4e16-b826-4a3381dc3fa3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"7.34901\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "J[ésus]. C[hrist]. . 2 // 05 / 0.C. Crucifié.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>J[ésus]. C[hrist]. . 2 // 05 / 0.C. Crucifié.</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/24",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=633,1479,501,147"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paradis terrestre;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Paradis terrestre;</p>"
+    } ],
+    "within" : {
+      "@type" : "sc:Manifest",
+      "@id" : "http://127.0.0.1:5500/ebmanifest.json"
+    },
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105326834734743500222",
+    "motivation" : [ "sc:painting" ],
+    "dcterms:created" : "2023-09-29T18:01:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1696010462025/23",
+    "dcterms:modified" : "2023-09-29T18:01:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://127.0.0.1:5500/ebmanifest.json",
+        "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=636,1416,670,115"
+      },
+      "full" : "http://cef82a87-c594-4aba-baf6-7d1b8c17da2a"
+    }
+  } ],
+  "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/annotations/ebannotations3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/ebmanifest.json",
     "label" : "17th-century French invoice/receipt for the cost of books to be sent to Cayenne. Books topics include: French Reformed sermons, Protestant theology, and maritime practices. "
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://janeeucd.github.io/IIIFWorkshopTest/manifests/Cayennemanifest.json",
+    "label" : "List of books bought to send to Cayenne with prices.  Z2.2.16.1.35"
   } ]
 }
